@@ -81,6 +81,19 @@ h2 {
     flex: 1 1 200px;
 }
 
+
+    .social-media {
+         display: block;
+       
+    }
+
+
+  .mobile-social-media {
+    display: none;
+    }
+
+
+
 .social-media a {
     display: block;
     padding: 1rem;
@@ -198,3 +211,4 @@ footer {
         background-color: #848020;
     }
 }
+
